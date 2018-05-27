@@ -34,4 +34,23 @@ Blynk.begin(auth, "SSID", "pwd");  //ssid-,pswd for to connect the WiFI
 
 ### Workflow of the project::
 
+![image](https://user-images.githubusercontent.com/27301175/40587635-939c2b78-61ef-11e8-8767-ef66a4f37892.png)
+
+
+### Results in the Mobile App:
+
+![image](https://user-images.githubusercontent.com/27301175/40587690-5aa44304-61f0-11e8-96db-e14bc79fcffc.png)
+
+Also another feature of this App is We will also get notification about the abrupt climatic parameters in real time even when the app is not running. You can see the below screeshorts of the feature.
+
+![image](https://user-images.githubusercontent.com/27301175/40587729-b63b1fc6-61f0-11e8-9ffb-12a8638c955c.png)
+
+### Set up/Connections boards :
+
+![whatsapp image 2018-05-27 at 21 00 38](https://user-images.githubusercontent.com/27301175/40587761-3310e7ce-61f1-11e8-9078-dba3fe2d0941.jpeg)
+
+
+The Arduino codes have been uploaded as arduino file(.ino) in above as name ProjectFinalYear.ino.
+
+
 
