@@ -26,6 +26,7 @@ Serial.begin(115200);   //Setting the baud rate to display for PC and NodeMCU
 Blynk.begin(auth, "SSID", "pwd");  //ssid-,pswd for to connect the WiFI
 }
 ```
+Blynk App Process to connect to the Blynk cloud: 
 
 ![image](https://user-images.githubusercontent.com/27301175/40587547-fea179ca-61ed-11e8-9702-33fb108dc4d8.png)
 
