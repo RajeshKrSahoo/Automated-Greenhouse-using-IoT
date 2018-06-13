@@ -20,7 +20,7 @@ void setup()
   digitalWrite(D6,LOW);   //for fan   D6
   digitalWrite(D5,LOW);   //For Automatic Mode D5 we used 
   Serial.begin(115200);   //Setting the baud rate to display for PC and NodeMCU
-  Blynk.begin(auth, "raja", "static80");  //ssid-raja,pswd-static80 for to connect the WiFI
+  Blynk.begin(auth, "xxxxxxx", "xxxxxxxxxxx");  //ssid-raja,pswd-static80 for to connect the WiFI
   timer.setInterval(2000, sendDHT);    //Every 2sec it will send the data from DHT to the Internet Blynk server and NodeMCU will blink
 }
 
